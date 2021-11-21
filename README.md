@@ -1,2 +1,2 @@
 # E-Quality
-Progetto sviluppato durante il corso di Gamificationlab presso La Sapienza Università di Roma e in collaborazione con la Consigliera Regionale delle Pari Opportunità. E-Quality è un gioco rivolto ai bambini per sensibilizzare sulla parità di genere.
+Gamified videogame developed during the Gamificationlab course at Sapienza University of Rome, built for kids to raise awareness on gender equality in collaboration with the Italian Regional Councilor for Equal Opportunities
